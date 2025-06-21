@@ -17,6 +17,10 @@ A fully functional and stylish **AI Chatbot** built using **HTML**, **CSS**, and
 
 ---
 
+##Preview
+
+Chatbot Screenshot: (./Screenshot(702).png)
+
 ## 🧰 Tech Stack
 
 | Technology | Usage                  |
